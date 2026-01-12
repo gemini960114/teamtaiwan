@@ -16,6 +16,12 @@
 
 ---
 
+## 🌟 示範網站 (:)
+- Invitation Code: ai4all
+- Url: http://teamtaiwan.biobank.org.tw/
+
+---
+
 ## 🚀 快速安裝 (Docker 部署)
 
 本系統要求必須在 **HTTPS** 環境下執行（以獲取麥克風權限）。我們提供了一鍵啟動腳本，會自動為您處理 SSL 憑證。

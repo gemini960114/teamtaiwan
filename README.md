@@ -99,6 +99,14 @@ A: 預設 Nginx 限制為 100MB。如需上傳超大型檔案，請修改 `nginx
 
 ---
 
+## 🛠️ 圖書說明 (Handbook Details)
+
+詳細的圖書說明請參閱：
+👉 [**完整圖書說明 (Handbook.md)**](./Handbook.md)
+
+---
+
+
 ## 🤝 維護與支援
 本專案由 **[NCHC GenAI Team](https://www.nchc.org.tw/)** 提供支援與開發。
 
